@@ -2,7 +2,7 @@ const https = require('https');
 
 const unplashApi = 'https://source.unsplash.com/1600x900?dream';
 const quotes = [
-  'You smell good, your arms are so big and you are so handsome'
+  'Tu as des bras immenses, mate moi ces gros biceps'
 ];
 
 async function getImage() {
