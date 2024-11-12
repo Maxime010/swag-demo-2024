@@ -2,7 +2,7 @@ const https = require('https');
 
 const unplashApi = 'https://source.unsplash.com/1600x900?dream';
 const quotes = [
-  'Tu as des bras immenses, mate moi ces gros biceps'
+  "Tema la taille de tes biceps, t'es trop stock"
 ];
 
 async function getImage() {
